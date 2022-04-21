@@ -18,7 +18,7 @@ public class Question4
     for (int j=0; j<=i; j++)  
     {  
     //prints star and space  
-    System.out.print("*" + " ");  
+    System.out.print("*");  
     }  
     //throws the cursor in the next line after printing each line  
     System.out.println();  
