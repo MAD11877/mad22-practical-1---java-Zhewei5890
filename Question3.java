@@ -10,7 +10,11 @@ public class Question3
      * Hint: in.nextInt() to read integer
      */
      
-    Scanner in = new Scanner(System.in);
+    Scanner in = new Scanner(System.in);   
+    // System.out.println("Enter Number: ");
+    int num = in.nextInt();
+    int output = num * num;
+    System.out.println(output);
     
   }
 }
