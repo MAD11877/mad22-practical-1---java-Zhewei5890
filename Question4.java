@@ -12,7 +12,7 @@ public class Question4
     int count = in.nextInt();
     
     //inner loop  
-    for (int i= rows-1; i>=0 ; i--)  
+    for (int i= count - 1; i>=0 ; i--)  
     {  
     //outer loop  
     for (int j=0; j<=i; j++)  
